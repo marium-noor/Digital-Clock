@@ -2,6 +2,10 @@
 
 This is a basic digital clock created using HTML, CSS, and JavaScript. It provides a straightforward and visually appealing way to display the current time on a web page.
 
+## How it looks
+
+<img width="355" alt="Screenshot 2024-02-03 173252" src="https://github.com/marium-noor/Digital-Clock/assets/145590434/7ea26b79-5752-4d2c-8932-cc815d7eccb1">
+
 ## Features
 
 - **Real-time Display:** The clock updates in real-time, providing an accurate representation of the current time.
